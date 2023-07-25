@@ -1,5 +1,5 @@
-# JSGPCA
-Joint regularization for sparse group principal component analysis
+# ESGPCA
+Elastic regularization for sparse group principal component analysis
 
 ## Usage
 * Algorithms used in experiments can be implemented by running 
